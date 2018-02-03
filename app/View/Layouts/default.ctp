@@ -252,7 +252,7 @@ $ git push</pre>
 
 <p>After pushing changes, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
 
-                  <h3>Expanding on sample app</h3>
+                  <h3>Expanding haha on sample app</h3>
                   <p>
                   In order to access the original CakePHP application, you have to remove the
                   app/View/Layouts/default.ctp file which serves as the welcome page and rename
